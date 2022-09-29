@@ -1,0 +1,49 @@
+/*
+
+    The following CSS codes are created by the YellowPencil plugin.
+    https://yellowpencil.waspthemes.com/
+
+
+    T A B L E   O F   C O N T E N T S
+    ........................................................................
+
+    01. Non-Static Homepage
+
+*/
+
+
+
+/*-----------------------------------------------*/
+/*  Non-Static Homepage                          */
+/*-----------------------------------------------*/
+body.home .wp-block-search .wp-block-search__inside-wrapper .wp-block-search__button{
+	background-color:#000000;
+	color:#ffffff;
+	position:relative;
+	top:39px;
+	right:-200px;
+	left:-200px;
+	-webkit-transform:translatex(0px) translatey(0px);	-ms-transform:translatex(0px) translatey(0px);	transform:translatex(0px) translatey(0px);
+	padding-right:16px;
+	padding-left:12px;
+	padding-top:2px;
+	margin-left:200px;
+	margin-right:-50px;
+	margin-top:9px;
+}
+
+body.home #sidebar{
+	-webkit-transform:translatex(0px) translatey(0px);	-ms-transform:translatex(0px) translatey(0px);	transform:translatex(0px) translatey(0px);
+	margin-right:-50px;
+	margin-top:-50px;
+	margin-bottom:-50px;
+	margin-left:-50px;
+	display:inline-block;
+	min-height:253px !important;
+	padding-right:62px;
+	padding-top:37px;
+}
+
+body.home #block-3 h2{
+	padding-top:18px;
+}
